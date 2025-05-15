@@ -15,6 +15,6 @@ INSERT INTO astartes (name, rank, company, is_psyker)
 -- Test skapa en Astartes --
 INSERT INTO astartes (name, rank, company, is_psyker)
     VALUES
-        ('Mikael Firstborn', 'Chapter Master', 'NULL', FALSE)
+        ('Mikael Firstborn', 'Chapter Master', 'Unassigned', FALSE)
         
 
