@@ -10,10 +10,11 @@ CREATE TABLE astartes (
 -- Skapa en Astartes --
 INSERT INTO astartes (name, rank, company, is_psyker)
     VALUES
-        ('', '', '', T/F)
+        ('name', 'rank', 'company', psyker-T/F)
 
 -- Test skapa en Astartes --
 INSERT INTO astartes (name, rank, company, is_psyker)
     VALUES
-        ('Mikael Firstborn', '', '', T/F)
+        ('Mikael Firstborn', 'Chapter Master', 'NULL', FALSE)
+        
 
