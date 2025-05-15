@@ -18,3 +18,6 @@ INSERT INTO astartes (name, rank, company, is_psyker)
         ('Mikael Firstborn', 'Chapter Master', 'Unassigned', FALSE)
         
 
+INSERT INTO astartes (name, rank, company, is_psyker)
+    VALUES
+        ('name', 'rank', 'company', psyker-T/F)

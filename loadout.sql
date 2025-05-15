@@ -18,3 +18,5 @@ INSERT INTO loadouts (astartes_id, weapon, armor, relic)
 INSERT INTO loadouts (astartes_id, weapon, armor, relic)
     VALUES
     (1, 'storm bolter', 'terminator', 'frost bite');
+
+    
